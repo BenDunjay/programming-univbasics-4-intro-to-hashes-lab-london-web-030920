@@ -32,7 +32,7 @@ def update_counting_hash(hash, key)
   hash
  end
  
- 
+ return hash
  
  
   # given a hash an a key as parameters, return an updated hash
